@@ -11,26 +11,35 @@
         <mj-section>
             <mj-column>
                 <mj-text align="center">
-                    <p>Pusat Teknologi Maklumat, Universiti Kebangsaan Malaysia
-dengan berbesar hati akan mengadakan</p>
-<h1>Seminar & Perkongsian Pakar IT (SEKOPI)
-kali ke -4</h1>
+                    <p>Pusat Teknologi Maklumat, Universiti Kebangsaan Malaysia dengan berbesar hati akan mengadakan</p>
+                    <h1>Seminar & Perkongsian Pakar IT (SEKOPI) kali ke -4</h1>
                 </mj-text>
             </mj-column>
         </mj-section>
         <mj-section>
-            <mj-column>
-            <mj-carousel>
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-1.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-2.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-3.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-4.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-5.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-6.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-7.png?raw=true" />
-                <mj-carousel-image src="https://github.com/mmUKM/sekopi/blob/main/slot-8.png?raw=true" />
-            </mj-carousel>
-                
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-1.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-2.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-3.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-4.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-5.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-6.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-7.webp" alt="" />
+            </mj-column>
+            <mj-column width="50%">
+                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-8.webp" alt="" />
             </mj-column>
         </mj-section>
     </mj-body>
