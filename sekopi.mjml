@@ -1,46 +1,113 @@
 <mjml>
     <mj-head>
-        
+
     </mj-head>
     <mj-body>
-        <mj-section>
+        <mj-section padding="0">
             <mj-column>
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/banner-sekopi-emel-r1.webp" alt="" />
+                <mj-image padding="0px" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/banner-sekopi-emel-r1.webp" alt="" />
             </mj-column>
         </mj-section>
-        <mj-section>
-            <mj-column>
-                <mj-text align="center">
-                    <p>Pusat Teknologi Maklumat, Universiti Kebangsaan Malaysia dengan berbesar hati akan mengadakan</p>
-                    <h1>Seminar & Perkongsian Pakar IT (SEKOPI) kali ke -4</h1>
+        <mj-wrapper padding="0">
+            <mj-hero
+                background-color="#071832"
+            >
+                <mj-text color="#ffffff" font-size="18px" line-height="24px" padding="30px 40px 0 40px">
+                    <p align="left" css-class="font-18">Assalamualaikum dan Salam Sejahtera!<br/><br/>
+
+Pusat Teknologi Maklumat (PTM), UKM akan menganjurkan Seminar Perkongsian Pakar IT (SEKOPI) kali ke-4.<br/><br/>
+
+Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk meneroka bidang Kecerdasan Buatan (AI) yang mengubah masa depan dan seminar ini juga menyediakan pelbagai aktiviti menarik seperti Tech Odyssey Showcase (Pameran Projek Teknologi oleh Pelajar, Peluang Networking), Slot Bicara, Pameran ICT, Cabutan Bertuah dan banyak lagi! <br/><br/></p>
                 </mj-text>
-            </mj-column>
+                <mj-text color="#ffffff" line-height="16px">
+                    <h1 align="center"> Hanya RM79 Sahaja</h1>
+                    <mj-image src="" alt="" />
+                </mj-text>
+                <mj-button href="https://www.ticket2u.com.my/event/42294_7630f3511de442bfa7f4f70598b592c7" background-color="#91D836" color="#071832" border-radius="10px" padding="0 0 30px 0">
+                    Daftar Sekarang
+                </mj-button>
+            </mj-hero>
+        </mj-wrapper>
+        <mj-section background-color="linear-gradient(45deg, #fffd72 0%, #91D836 100%)" padding="30px 0 0 30px">
+            <mj-group>
+                <mj-column padding="0px">
+                    <mj-image padding="0px" src="https://www.ukm.my/sekopi/wp-content/uploads/2025/04/nizam-razak-600-806-no-bg.png" alt="" />    
+                </mj-column>
+                <mj-column padding="50px 50px 0 0" vertical-align="middle">
+                <mj-text>
+                    <h1 align="center">Penampilan Istemewa</h1>
+                </mj-text>
+                <mj-divider border-width="1px" />
+                <mj-text>
+                    <h3 align="center">Encik Mohd Nizam Abd Razak</h3>
+                    <p align="center">Chief Executive Officer<br/>Monsta Studios Sdn. Bhd.</p>
+                </mj-text>
+                    
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column vertical-align="middle">
+                    <mj-text color="#ffffff">
+                        <h1>8 Topik menarik bagi Slot Bicara</h1>
+                    </mj-text>
+                </mj-column >
+                <mj-column vertical-align="middle">
+                    <mj-button background-color="#91D836" color="#071832" border-radius="10px" padding="0">
+                        Maklumat Lanjut
+                    </mj-button>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-1.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-2.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+                <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-5.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
+                </mj-column>
+            </mj-group>
         </mj-section>
         <mj-section>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-1.webp" alt="" />
+            <mj-column>
+            <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+                <mj-social-element name="facebook" href="https://mjml.io/">
+                Facebook
+                </mj-social-element>
+                <mj-social-element name="google" href="https://mjml.io/">
+                Google
+                </mj-social-element>
+                <mj-social-element name="twitter" href="https://mjml.io/">
+                Twitter
+                </mj-social-element>
+                <mj-social-element name="x" href="https://mjml.io/">
+                X
+                </mj-social-element>
+            </mj-social>
             </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-2.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-3.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-4.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-5.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-6.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-7.webp" alt="" />
-            </mj-column>
-            <mj-column width="50%">
-                <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/slot-8.webp" alt="" />
-            </mj-column>
-        </mj-section>
     </mj-body>
 </mjml>
