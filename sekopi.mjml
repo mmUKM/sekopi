@@ -28,23 +28,15 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 </mj-button>
             </mj-hero>
         </mj-wrapper>
-        <mj-section background-color="linear-gradient(45deg, #fffd72 0%, #91D836 100%)" padding="30px 0 0 30px">
-            <mj-group>
-                <mj-column padding="0px">
-                    <mj-image padding="0px" src="https://www.ukm.my/sekopi/wp-content/uploads/2025/04/nizam-razak-600-806-no-bg.png" alt="" />    
-                </mj-column>
-                <mj-column padding="50px 50px 0 0" vertical-align="middle">
-                <mj-text>
-                    <h1 align="center">Penampilan Istemewa</h1>
-                </mj-text>
-                <mj-divider border-width="1px" />
-                <mj-text>
-                    <h3 align="center">Encik Mohd Nizam Abd Razak</h3>
-                    <p align="center">Chief Executive Officer<br/>Monsta Studios Sdn. Bhd.</p>
-                </mj-text>
-                    
-                </mj-column>
-            </mj-group>
+        <mj-section padding="0">
+        <mj-column padding="0">
+            <mj-image padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
+        </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-ucaptama.webp" alt="" />  
+            </mj-column>
         </mj-section>
         <mj-section background-color="#071832">
             <mj-group>
@@ -54,7 +46,7 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                     </mj-text>
                 </mj-column >
                 <mj-column vertical-align="middle">
-                    <mj-button background-color="#91D836" color="#071832" border-radius="10px" padding="0">
+                    <mj-button href="https://www.ukm.my/sekopi" background-color="#91D836" color="#071832" border-radius="10px" padding="0">
                         Maklumat Lanjut
                     </mj-button>
                 </mj-column>
