@@ -119,17 +119,17 @@ Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
             <mj-social icon-size="35px">
                 <mj-social-element
                     href="https://www.facebook.com/sekopiukm/"
-                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-facebook.webp"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-facebook.png"
                 >   
                 </mj-social-element>
                 <mj-social-element
                     href="https://x.com/sekopiukm/"
-                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-instagram.webp"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-instagram.png"
                 >   
                 </mj-social-element>
                 <mj-social-element
                     href="https://www.facebook.com/sekopiukm/"
-                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-tiktok.webp"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-tiktok.png"
                 >   
                 </mj-social-element>
             </mj-social>
@@ -138,7 +138,7 @@ Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
         <mj-section padding="0 0 30px 0" background-color="#91D836">
             <mj-group>
                 <mj-column width="40%" vertical-align="middle">
-                    <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-malaysia-madani.webp" width="150px" alt="" />
+                    <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-malaysia-madani-daya-cipta.png" width="150px" alt="" />
                 </mj-column>
                 <mj-column width="60%" vertical-align="middle">
                     <mj-text align="center" color="#071832">
