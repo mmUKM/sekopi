@@ -94,6 +94,12 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 </mj-column>
             </mj-group>
         </mj-section>
+        <mj-section background-color="#FFFF8F">
+            <mj-column>
+                <mj-image src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-aturcara-p1.webp" alt="" />
+                <mj-image src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-aturcara-p2.webp" alt="" />
+            </mj-column>
+        </mj-section>
         <mj-section padding="0">
             <mj-column padding="0">
                 <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
