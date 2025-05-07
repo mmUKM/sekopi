@@ -30,12 +30,17 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
         </mj-wrapper>
         <mj-section padding="0">
         <mj-column padding="0">
-            <mj-image padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
+            <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
         </mj-column>
         </mj-section>
         <mj-section padding="0">
             <mj-column padding="0">
-                <mj-image padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-ucaptama.webp" alt="" />  
+                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-ucaptama.webp" alt="" />  
+            </mj-column>
+        </mj-section>
+                <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
             </mj-column>
         </mj-section>
         <mj-section background-color="#071832">
@@ -52,54 +57,59 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 </mj-column>
             </mj-group>
         </mj-section>
+            <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#91D836" />
+            </mj-column>
+        </mj-section>
         <mj-section background-color="#071832">
             <mj-group>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-1.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-1.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-2.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-2.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
                 </mj-column>
             </mj-group>
         </mj-section>
                 <mj-section background-color="#071832">
             <mj-group>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-5.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-5.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
                 </mj-column>
                 <mj-column>
-                    <mj-image padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
                 </mj-column>
             </mj-group>
         </mj-section>
-        <mj-section>
-            <mj-column>
-            <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-                <mj-social-element name="facebook" href="https://mjml.io/">
-                Facebook
-                </mj-social-element>
-                <mj-social-element name="google" href="https://mjml.io/">
-                Google
-                </mj-social-element>
-                <mj-social-element name="twitter" href="https://mjml.io/">
-                Twitter
-                </mj-social-element>
-                <mj-social-element name="x" href="https://mjml.io/">
-                X
-                </mj-social-element>
-            </mj-social>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
             </mj-column>
+        </mj-section>
+        <mj-hero
+        height="320px"
+        background-color="#071832"
+        background-url="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-e-mel-footer.webp"
+        >
+            <mj-text padding="30px"color="#ffffff" font-size="18px" align="center">
+                Untuk maklumat lanjut, sila hubungi:<br/><br/>
+Farah Afiqah binti Lotfi Amer <br/>(03-89217128/ 011-24010607)<br/><br/>
+Ratih Wulandari binti Barata <br/>(03-89216124/ 011-14801700)<br/><br/>
+Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
+            </mj-text>
+        </mj-hero>
     </mj-body>
 </mjml>
