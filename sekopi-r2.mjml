@@ -1,0 +1,158 @@
+<mjml>
+    <mj-head>
+
+    </mj-head>
+    <mj-body>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0px" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-e-mel-header.webp" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-wrapper padding="0">
+            <mj-hero
+                background-color="#071832"
+            >
+                <mj-text color="#ffffff" font-size="18px" line-height="24px" padding="30px 40px 0 40px">
+                    <p align="left" css-class="font-18">Assalamualaikum dan Salam Sejahtera!<br/><br/>
+
+Pusat Teknologi Maklumat (PTM), UKM akan menganjurkan Seminar Perkongsian Pakar IT (SEKOPI) kali ke-4.<br/><br/>
+
+Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk meneroka bidang Kecerdasan Buatan (AI) yang mengubah masa depan dan seminar ini juga menyediakan pelbagai aktiviti menarik seperti Tech Odyssey Showcase (Pameran Projek Teknologi oleh Pelajar, Peluang Networking), Slot Bicara, Pameran ICT, Cabutan Bertuah dan banyak lagi! <br/><br/></p>
+                </mj-text>
+                <mj-text color="#ffffff" line-height="16px">
+                    <h1 align="center"> Hanya RM79 Sahaja</h1>
+                    <mj-image src="" alt="" />
+                </mj-text>
+                <mj-button href="https://www.ticket2u.com.my/event/42294_7630f3511de442bfa7f4f70598b592c7" width="250px" height="60px" background-color="#91D836" color="#071832" font-size="18px" border-radius="10px" padding="0 0 30px 0">
+                    Daftar Sekarang
+                </mj-button>
+            </mj-hero>
+        </mj-wrapper>
+                <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-ucaptama.webp" alt="" />  
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column vertical-align="middle">
+                    <mj-text color="#ffffff">
+                        <h1>8 Topik menarik bagi Slot Bicara</h1>
+                    </mj-text>
+                </mj-column >
+                <mj-column vertical-align="middle">
+                    <mj-button href="https://www.ukm.my/sekopi" background-color="#91D836" color="#071832" border-radius="10px" padding="0">
+                        Maklumat Lanjut
+                    </mj-button>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+            <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#91D836" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-1.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-2.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+                <mj-section background-color="#071832">
+            <mj-group>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-5.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color="#FFFF8F">
+            <mj-column>
+                <mj-image src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-aturcara-p1.webp" alt="" />
+                <mj-image src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-aturcara-p2.webp" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
+            </mj-column>
+        </mj-section>
+        <mj-hero
+        background-width="600px"
+        background-color="#071832"
+        background-url=""
+        background-position="bottom center"
+        >
+            <mj-text padding="30px"color="#ffffff" font-size="18px" align="center">
+                Untuk maklumat lanjut, sila hubungi:<br/><br/>
+Farah Afiqah binti Lotfi Amer <br/>(03-89217128/ 011-24010607)<br/><br/>
+Ratih Wulandari binti Barata <br/>(03-89216124/ 011-14801700)<br/><br/>
+Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
+            </mj-text>
+        </mj-hero>
+        <mj-hero
+            background-color="#91D836"
+            padding="10px 0 10px 0"
+        >
+            <mj-social icon-size="35px">
+                <mj-social-element
+                    href="https://www.facebook.com/sekopiukm/"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-facebook.png"
+                >   
+                </mj-social-element>
+                <mj-social-element
+                    href="https://www.instagram.com/sekopiukm/"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-instagram.png"
+                >   
+                </mj-social-element>
+                <mj-social-element
+                    href="https://www.tiktok.com/@sekopiukm"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-tiktok.png"
+                >   
+                </mj-social-element>
+            </mj-social>
+            <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#071832" />
+        </mj-hero>
+        <mj-section padding="0 0 30px 0" background-color="#91D836">
+            <mj-group>
+                <mj-column width="40%" vertical-align="middle">
+                    <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-malaysia-madani-daya-cipta.png" width="150px" alt="" />
+                </mj-column>
+                <mj-column width="60%" vertical-align="middle">
+                    <mj-text align="center" color="#071832">
+                        <a style="color:#071832;text-decoration:none;" href="https://www.ukm.my/sekopi" >www.ukm.my/sekopi</a><br/><br/>
+                        <strong>ILMU, MUTU DAN BUDI<strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>
