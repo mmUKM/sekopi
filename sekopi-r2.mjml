@@ -40,7 +40,7 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
         </mj-section>
         <mj-section padding="0">
             <mj-column padding="0">
-                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-penampilan-istimewa-opt-2.webp" alt="" />  
+                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
             </mj-column>
         </mj-section>
         <mj-section background-color="#071832">
@@ -51,18 +51,18 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                     </mj-text>
                 </mj-column >
                 <mj-column vertical-align="middle" width="40%">
-                    <mj-button href="https://www.ukm.my/sekopi" background-color="#91D836" color="#071832" border-radius="10px" padding="0">
+                    <mj-button href="https://www.ukm.my/sekopi" background-color="#91D836" color="#071832" border-radius="10px" padding="0 10px 0 0">
                         Maklumat Lanjut
                     </mj-button>
                 </mj-column>
             </mj-group>
         </mj-section>
-            <mj-section padding="0">
+        <mj-section padding="0">
             <mj-column padding="0">
                 <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#91D836" />
             </mj-column>
         </mj-section>
-        <mj-section background-color="#071832">
+        <mj-section background-color="#d8dceb" padding-bottom="0">
             <mj-group>
                 <mj-column>
                     <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-1.webp" alt="" />
@@ -72,13 +72,33 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 </mj-column>
             </mj-group>
         </mj-section>
-                <mj-section background-color="#071832">
+        <mj-section background-color="#d8dceb" padding-top="0" padding-bottom="0">
+            <mj-group>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color="#d8dceb" padding-top="0" padding-bottom="0">
             <mj-group>
                 <mj-column>
                     <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-5.webp" alt="" />
                 </mj-column>
                 <mj-column>
                     <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color="#d8dceb" padding-top="0">
+            <mj-group>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
+                </mj-column>
+                <mj-column>
+                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
                 </mj-column>
             </mj-group>
         </mj-section>
