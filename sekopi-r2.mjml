@@ -40,17 +40,17 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
         </mj-section>
         <mj-section padding="0">
             <mj-column padding="0">
-                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/sekopi-penampilan-istimewa.webp" alt="" />  
+                <mj-image href="https://www.ukm.my/sekopi/" padding="0" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-penampilan-istimewa-opt-2.webp" alt="" />  
             </mj-column>
         </mj-section>
         <mj-section background-color="#071832">
             <mj-group>
-                <mj-column vertical-align="middle">
-                    <mj-text color="#ffffff">
-                        <h1>8 Topik menarik bagi Slot Bicara</h1>
+                <mj-column vertical-align="middle" width="60%">
+                    <mj-text color="#ffffff" align="center">
+                        <h1>Inilah Topik <span style="color:red;">"HOT"</span> Kita</h1>
                     </mj-text>
                 </mj-column >
-                <mj-column vertical-align="middle">
+                <mj-column vertical-align="middle" width="40%">
                     <mj-button href="https://www.ukm.my/sekopi" background-color="#91D836" color="#071832" border-radius="10px" padding="0">
                         Maklumat Lanjut
                     </mj-button>
@@ -70,12 +70,6 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 <mj-column>
                     <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-2.webp" alt="" />
                 </mj-column>
-                <mj-column>
-                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-3.webp" alt="" />
-                </mj-column>
-                <mj-column>
-                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-4.webp" alt="" />
-                </mj-column>
             </mj-group>
         </mj-section>
                 <mj-section background-color="#071832">
@@ -85,12 +79,6 @@ Dengan tema “ AI Mendakap Era Digital”, seminar ini membuka peluang untuk me
                 </mj-column>
                 <mj-column>
                     <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-6.webp" alt="" />
-                </mj-column>
-                <mj-column>
-                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-7.webp" alt="" />
-                </mj-column>
-                <mj-column>
-                    <mj-image href="https://www.ukm.my/sekopi/" padding="10px" src="https://github.com/mmUKM/sekopi/raw/refs/heads/main/slot-8.webp" alt="" />
                 </mj-column>
             </mj-group>
         </mj-section>
@@ -119,7 +107,7 @@ Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
             </mj-text>
         </mj-hero>
         <mj-hero
-            background-color="#91D836"
+            background-color="#4df158"
             padding="10px 0 10px 0"
         >
             <mj-social icon-size="35px">
@@ -141,7 +129,7 @@ Ashraf binti Md Shafie <br/>(03-89216300/ 019-3500212)<br/><br/>
             </mj-social>
             <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#071832" />
         </mj-hero>
-        <mj-section padding="0 0 30px 0" background-color="#91D836">
+        <mj-section padding="0 0 30px 0" background-color="#4df158">
             <mj-group>
                 <mj-column width="40%" vertical-align="middle">
                     <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-malaysia-madani-daya-cipta.png" width="150px" alt="" />
