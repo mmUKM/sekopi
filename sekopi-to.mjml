@@ -1,0 +1,83 @@
+<mjml>
+    <mj-head>
+
+    </mj-head>
+    <mj-body>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0px" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-e-mel-header.webp" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-wrapper padding="0">
+            <mj-hero
+                background-color="#071832"
+            >
+                <mj-text color="#ffffff" font-size="18px" line-height="24px" padding="30px 40px 0 40px">
+                <h1 style="line-height:1em;">Jom sertai Tech Odyssey Showcase!</h1>
+Pamerkan projek IT anda dalam acara berprestij <br/>UKM SEKOPI: Seminar & Perkongsian Pakar IT <br/><br/>
+
+11 Jun 2025 | 9.00 pagi – 4.30 petang | UKMShape<br/>
+Hadiah menarik + Sijil + Merit iSTAR!<br/>
+Tarikh tutup penyertaan: 28 Mei 2025<br/><br/>
+                </mj-text>
+                <mj-button href="http://www.ukm.my/sekopi/tech-odyssey" width="250px" height="60px" background-color="#91D836" color="#071832" font-size="18px" border-radius="10px" padding="0 0 30px 0">
+                    Daftar Sekarang
+                </mj-button>
+            </mj-hero>
+        </mj-wrapper>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-divider padding="0" border-width="4px" border-style="solid" border-color="#eed92b" />
+            </mj-column>
+        </mj-section>
+        <mj-hero
+        background-width="600px"
+        background-color="#071832"
+        background-url=""
+        background-position="bottom center"
+        >
+            <mj-text padding="30px"color="#ffffff" font-size="18px" align="center">
+Untuk maklumat lanjut, sila hubungi:<br/><br/>
+Amirul Haqim <br/>(03-89217058/ <a href="https://wa.me/01111362729">wa.me/01111362729</a>)<br/><br/>
+sekopiukm@ukm.edu.my<br/></br/>
+#TechOdyssey #SEKOPI2025 #UKM #InovasiDigital
+            </mj-text>
+        </mj-hero>
+        <mj-hero
+            background-color="#4df158"
+            padding="10px 0 10px 0"
+        >
+            <mj-social icon-size="35px">
+                <mj-social-element
+                    href="https://www.facebook.com/sekopiukm/"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-facebook.png"
+                >   
+                </mj-social-element>
+                <mj-social-element
+                    href="https://www.instagram.com/sekopiukm/"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-instagram.png"
+                >   
+                </mj-social-element>
+                <mj-social-element
+                    href="https://www.tiktok.com/@sekopiukm"
+                    src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-tiktok.png"
+                >   
+                </mj-social-element>
+            </mj-social>
+            <mj-divider padding="0" border-width="1px" border-style="solid" border-color="#071832" />
+        </mj-hero>
+        <mj-section padding="0 0 30px 0" background-color="#4df158">
+            <mj-group>
+                <mj-column width="40%" vertical-align="middle">
+                    <mj-image src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-malaysia-madani-daya-cipta.png" width="150px" alt="" />
+                </mj-column>
+                <mj-column width="60%" vertical-align="middle">
+                    <mj-text align="center" color="#071832">
+                        <a style="color:#071832;text-decoration:none;" href="https://www.ukm.my/sekopi" >www.ukm.my/sekopi</a><br/><br/>
+                        <strong>ILMU, MUTU DAN BUDI<strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>
