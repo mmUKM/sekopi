@@ -5,7 +5,7 @@
     <mj-body>
         <mj-section padding="0">
             <mj-column>
-                <mj-image padding="0px" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/sekopi-e-mel-header.webp" alt="" />
+                <mj-image padding="0px" src="https://raw.githubusercontent.com/mmUKM/sekopi/refs/heads/main/e-mel-sekopi-header.webp" alt="" />
             </mj-column>
         </mj-section>
         <mj-wrapper padding="0">
